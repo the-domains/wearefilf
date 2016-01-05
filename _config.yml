@@ -1,0 +1,28 @@
+name: WeAreFilf
+favicon: null
+layout_spectrum: 0.5020717047154903
+typography_spectrum: 0.2826904689427465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6306784467305988
+  lightness: 0.42628702567890286
+  saturation: 0.6778196648228914
+  rhythmicContrast: 0.7532088973093778
+purpose: []
